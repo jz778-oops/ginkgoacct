@@ -9,7 +9,9 @@
     "react-dom": "^19.0.0",
     "react-scripts": "^5.0.0",
     "lucide-react": "0.556.0",
-    "tailwindcss": "4.1.17"
+    "tailwindcss": "4.1.17",
+    "ajv": "6.12.6",
+    "ajv-keywords": "3.5.2" 
   },
   "devDependencies": {
     "@types/react": "19.0.0",
